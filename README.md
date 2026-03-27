@@ -16,7 +16,7 @@ Can be used as a background or footer design for modern websites.
 
 ## 🚀 Demo
 
-(Add your GitHub Pages link here)
+(https://cyberix-x.github.io/wave-effect/index.html)
 
 ## 📁 How to Use
 
