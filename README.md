@@ -20,9 +20,9 @@ Can be used as a background or footer design for modern websites.
 
 ## 📁 How to Use
 
-1. Copy the HTML and CSS files.
-2. Add them to your project.
-3. Customize styles as needed.
+1. Copy the HTML and CSS files
+2. Add them to your project
+3. Customize styles as needed
 
 ## 📌 Author
 
