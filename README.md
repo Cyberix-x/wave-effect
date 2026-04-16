@@ -1,4 +1,4 @@
-# 🌊 Wave Effect
+# 🌊 Wave-Effect
 
 A simple wave animation effect built using HTML and CSS.
 Can be used as a background or footer design for modern websites.
